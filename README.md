@@ -1,5 +1,5 @@
 # Git Demo Repo
-This is a demo for the Git Course.
+This is a sample repo demo for the Git Course.
 
 ## How To Work With Git
 
