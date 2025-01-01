@@ -4,6 +4,8 @@ This is a sample repo/ sample app demo for the Git Course.
 
 ## GUI 
 * This change made by VSCode
+* This change made by Visual Studio 2022
+* 
 ## How To Work With Git
 
 1. git checkout main
